@@ -1,0 +1,9 @@
+ir al direccion del archivo
+-git init
+-git remote add origin (direccion de repositorio)
+-git status
+-git add .
+-git status
+-git commit -m "comentario"
+-git push -u origin master
+
